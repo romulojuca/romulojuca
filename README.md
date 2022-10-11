@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Romulo Rueda
 - 👀 I'm interested in learning programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python with Flask
 - 💞️ I want to collaborate with new students in this area
 - 📫Can u reach me in romulojuca@hotmail.com or https://www.instagram.com/romulorueda/
 
