@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Romulo Rueda
 - 👀 I'm interested in learning programming
-- 🌱 I’m currently learning Python with Flask
-- 💞️ I want to collaborate with new students in this area
+- 🌱 I’m currently learning Python, Flask and SQLAlchemy
+- 💞️ I want to collaborate with new students and work in the area
 - 📫Can u reach me in romulojuca@hotmail.com or https://www.instagram.com/romulorueda/
 
 <!---
