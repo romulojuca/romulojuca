@@ -1,6 +1,6 @@
 - 👋 Olá, sou Romulo Rueda
 - 👀 Estou interessado em aprender programação e conseguir uma vaga na área
-- 🌱 Estudando atualmente Python, Flask e SQLAlchemy
+- 🌱 Estudando atualmente Python
 - 💞️ Quero colaborar com novos estudantes
 - 📫 Pode me encontrar em romulojuca@hotmail.com ou https://www.instagram.com/romulorueda/
 
