@@ -1,6 +1,6 @@
 - 👋 Olá, sou Romulo Rueda
 - 👀 Estou interessado em aprender programação e conseguir uma vaga na área
-- 🌱 Estudando atualmente Python
+- 🌱 Estudando atualmente Python, HTML, CSS e JS
 - 💞️ Quero colaborar com novos estudantes
 - 📫 Pode me encontrar em romuloagrueda@gmail.com ou https://www.instagram.com/romulorueda/
 
